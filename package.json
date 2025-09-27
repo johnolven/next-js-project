@@ -1,6 +1,8 @@
 {
-  "name": "next-js-project",
-  "version": "0.1.0",
+  "name": "johnolven-nextjs-template",
+  "version": "1.0.0",
+  "description": "Plantilla base de Next.js creada por JohnOlven",
+  "author": "JohnOlven",
   "private": true,
   "scripts": {
     "dev": "next dev",
